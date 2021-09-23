@@ -1,0 +1,4 @@
+outs:
+- md5: 986daf2d7956296134910b9fc38a9f82
+  size: 9
+  path: testdata.xml
