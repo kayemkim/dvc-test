@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = s3://metsmania/dvc-test-store
+    url = s3://a2a-dvc-test-bucket/dvc-test-store
